@@ -4,140 +4,69 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f11f3f13-702f-4c6b-86c1-d503909e7eaa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/BookShelf/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/BookShelf/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/BookShelf/BookShelfNewVersion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/BookShelf/NameSort_2Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/BookShelf/Publisher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/BookShelf/SortBy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/HW_ATM/ATM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/HW_ATM/ATMApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/HW_ATM/Converter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/HW_ATM/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/HW_ATM/Euronet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/HW_ATM/Millenium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/HW_ATM/Santander.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/HW_ArrayList/ArrayListExample_HW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/HW_PokerRefactoring/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/HW_PokerRefactoring/Deal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/HW_PokerRefactoring/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/HW_PokerRefactoring/Rank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/HW_PokerRefactoring/Suits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/Solitaire/ArrayDequeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/Solitaire/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/Solitaire/MyArrayDeque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/Solitaire/MyDeque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/Solitaire/SolitaireApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/SpeedRating/Customiterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/SpeedRating/IteratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/SpeedRating/SpeedRating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/userRequestStorageSystem/Answers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/userRequestStorageSystem/MethodTest/MethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/userRequestStorageSystem/RequestsStorageSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/userRequestStorageSystem/Storage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/userRequestStorageSystem/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/userRequestStorageSystem/UserRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessoneight/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessoneight/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessoneight/TestMyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessoneighteen/FlatMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessoneighteen/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessoneighteen/StreamAppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessoneighteen/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessoneighteen/StudentAppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessoneighteen/TestItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessoneighteen/task/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessoneighteen/task/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessoneleven/SOFExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessoneleven/StackExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessoneleven/StackTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessoneone/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessoneone/LessonOneApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonfive/AppArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonfive/AppArrayTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonfive/AppReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonfive/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonfive/SeaBattle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonfour/ATMApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonfour/CalculatorApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonfour/ChildOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonfour/ChildTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonfour/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonfour/Currency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonfour/Day.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonfour/EnumApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonfour/MiddleChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonfour/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonfour/ParentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonnine/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonnine/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonnine/TestAppExampleThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonnine/TestAppSetExampleOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonnine/TestAppSetExampleTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonnine/TestIncorrectHashCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonnine/TsetExampleFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonnineteen/BufferFileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonnineteen/BufferInputTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonnineteen/FileReadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonnineteen/FileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonnineteen/IOStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonnineteen/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonseven/IteratorAppExampleFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonseven/IteratorAppExampleFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonseven/IteratorAppExampleOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonseven/IteratorAppExampleThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonseven/IteratorAppExampleTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonsix/ArrayExamplePerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonsix/ArrayListApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonsix/ArrayListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonsix/ArrayListExampleThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonsix/ArrayListExampleTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonsix/hwr/BankApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonsix/hwr/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonsix/hwr/Currency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonsix/hwr/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonten/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonten/CompareExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonten/CompareObjectExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonten/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonten/SortObjectExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonten/SortPersonByAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonten/SortPersonByName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonthirteenth/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonthirteenth/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonthree/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonthree/AnimalApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonthree/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonthree/EarthAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonthree/Eatable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonthree/Elephant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonthree/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonthree/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonthree/PhoneApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonthree/RadioPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonthree/SatPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonthree/SeaAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonthree/Whale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwo/BigCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwo/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwo/Hippodrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwo/LessonTwoApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwo/LittleCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwo/SeaCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwo/WildCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+    <list default="true" id="f11f3f13-702f-4c6b-86c1-d503909e7eaa" name="Changes" comment="proftelrancours">
+      <change afterPath="$PROJECT_DIR$/customHash.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customNumbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/FileChangingTest/FileChanging.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/FileChangingTest/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/FileReader/FileAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/FileReader/IndexStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/FileReader/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/FileReader/TextCoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/FileReader/customHash.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/FileReader/customNumbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/FileReader/testFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/HWRegexTest/RegexTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/SelfPresentation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/StreamAPI2/Task1/APISortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/StreamAPI2/Task2/MinElementTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/StreamAPI2/Task3/BackEndStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/StreamAPI2/Task3/ClassType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/StreamAPI2/Task3/FrontEndStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/StreamAPI2/Task3/ProjectStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/StreamAPI2/Task3/QAStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/StreamAPI2/Task3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/StreamAPI2/Task3/StudentsApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/StreamApiTest/Task1/Surnames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/StreamApiTest/Task2/StringSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/StreamApiTest/Task3/ClientsApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/StreamApiTest/Task3/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/StreamApiTest/Task3/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/StreamApiTest/Task3/TypeOfPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/StreamApiTest/Task4/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/StreamApiTest/Task4/AutoCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwenty/CustomReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwenty/TestFis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwenty/TestTryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwenty/TestTryWR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwenty/ile1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwenty/task/A.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwenty/task/B.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwenty/task/C.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwenty/task/D.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwenty/task/MergeFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwentyone/TestIP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwentyone/TestMatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwentyone/TestPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwentyone/TestSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwentytwo/GenericMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwentytwo/GenericTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwentytwo/GenericTestApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwentytwo/GenericTestTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwentytwo/OnlyNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwentytwo/OnlyNumberTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwentytwo/OnlyNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwentytwo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwentytwo/TestGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwentytwo/TestGenericTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwentytwo/TetsInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/BookShelf/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/BookShelf/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/BookShelf/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/BookShelf/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/BookShelf/BookShelfNewVersion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/BookShelf/BookShelfNewVersion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/BookShelf/Publisher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/BookShelf/Publisher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/BookShelf/SortBy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/Homework/BookShelf/SortBy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonnineteen/FileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proftelran/org/lessonnineteen/FileTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,8 +76,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -163,26 +92,30 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ToolWindowBuild.ShowToolbar": "false",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "settings.sync"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ToolWindowBuild.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory",
-      "module"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\48793\IdeaProjects\proftelrncourse1\src\main\java\com\proftelran\org\lessontwenty\task" />
+    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.proftelran.Homework.BookShelf" />
     </key>
@@ -190,13 +123,13 @@
       <recent name="com.proftelran.Homework.Solitaire" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileTest">
-    <configuration name="BufferFileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.proftelran.org.lessonnineteen.BufferFileTest" />
+  <component name="RunManager" selected="Application.FileAnalyzer">
+    <configuration name="FileAnalyzer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.proftelran.Homework.FileReader.FileAnalyzer" />
       <module name="proftelrncourse1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.proftelran.org.lessonnineteen.*" />
+          <option name="PATTERN" value="com.proftelran.Homework.FileReader.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BufferInputTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.proftelran.org.lessonnineteen.BufferInputTest" />
+    <configuration name="GenericMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.proftelran.org.lessontwentytwo.GenericMethodTest" />
       <module name="proftelrncourse1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.proftelran.org.lessonnineteen.*" />
+          <option name="PATTERN" value="com.proftelran.org.lessontwentytwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileReadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.proftelran.org.lessonnineteen.FileReadTest" />
+    <configuration name="GenericTestApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.proftelran.org.lessontwentytwo.GenericTestApp" />
       <module name="proftelrncourse1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.proftelran.org.lessonnineteen.*" />
+          <option name="PATTERN" value="com.proftelran.org.lessontwentytwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.proftelran.org.lessonnineteen.FileTest" />
+    <configuration name="TestGeneric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.proftelran.org.lessontwentytwo.TestGeneric" />
       <module name="proftelrncourse1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.proftelran.org.lessonnineteen.*" />
+          <option name="PATTERN" value="com.proftelran.org.lessontwentytwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IOStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.proftelran.org.lessonnineteen.IOStreamTest" />
+    <configuration name="TestGenericTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.proftelran.org.lessontwentytwo.TestGenericTwo" />
       <module name="proftelrncourse1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.proftelran.org.lessonnineteen.*" />
+          <option name="PATTERN" value="com.proftelran.org.lessontwentytwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FileTest" />
-        <item itemvalue="Application.BufferFileTest" />
-        <item itemvalue="Application.BufferInputTest" />
-        <item itemvalue="Application.FileReadTest" />
-        <item itemvalue="Application.IOStreamTest" />
+        <item itemvalue="Application.FileAnalyzer" />
+        <item itemvalue="Application.GenericMethodTest" />
+        <item itemvalue="Application.GenericTestApp" />
+        <item itemvalue="Application.TestGeneric" />
+        <item itemvalue="Application.TestGenericTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -275,9 +208,46 @@
       <option name="presentableId" value="Default" />
       <updated>1696579735636</updated>
     </task>
+    <task id="LOCAL-00001" summary="proftelrancours">
+      <created>1701698002748</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701698002748</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="proftelrancours" />
+    <option name="LAST_COMMIT_MESSAGE" value="proftelrancours" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/proftelran/org/lessontwenty/TestFis.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/proftelrncourse1$TestTryWR.ic" NAME="TestTryWR Coverage Results" MODIFIED="1701802605903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.proftelran.org.lessontwenty.*</FILTER>
+    </SUITE>
   </component>
 </project>

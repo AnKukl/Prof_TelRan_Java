@@ -1,7 +1,7 @@
 package com.proftelran.Homework.BookShelf;
 
-public class Author implements Comparable<Author>{
-    private  String name;
+public class Author implements Comparable<Author> {
+    private String name;
     private String dateOfBirth;
 
     public Author(String name, String dateOfBirth) {
@@ -28,7 +28,7 @@ public class Author implements Comparable<Author>{
     @Override
     public String toString() {
         return "Author:" +
-                 name;
+                name;
     }
 
     @Override

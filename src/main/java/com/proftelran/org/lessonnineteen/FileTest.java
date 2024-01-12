@@ -29,6 +29,7 @@ public class FileTest {
         File fileToDelete = new File(path + "\\filNew.txt");
         boolean delete = fileToDelete.delete();
         System.out.println("filTwo.txt delete ? " + delete);
+
 //        List of files
         String[] list = fileDirectory.list();
         System.out.println(Arrays.toString(list));

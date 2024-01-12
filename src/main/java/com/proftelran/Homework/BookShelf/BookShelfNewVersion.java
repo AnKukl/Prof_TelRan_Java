@@ -22,6 +22,7 @@ public class BookShelfNewVersion {
         action(bookShelf);
 
     }
+
     public static void action(List<Book> bookshelf) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Выберите способ сортировки:\n 1.Author\n 2.Date\n 3.Publisher");

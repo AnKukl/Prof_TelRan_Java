@@ -1,6 +1,6 @@
 package com.proftelran.Homework.BookShelf;
 
-public class Publisher implements Comparable<Publisher>{
+public class Publisher implements Comparable<Publisher> {
     private String name;
     private String dateOfBirth;
 
@@ -28,7 +28,7 @@ public class Publisher implements Comparable<Publisher>{
     @Override
     public String toString() {
         return "Publisher:" +
-                 name;
+                name;
     }
 
     @Override

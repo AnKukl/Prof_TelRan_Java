@@ -1,6 +1,6 @@
 package com.proftelran.Homework.BookShelf;
 
-public class Book  {
+public class Book {
     private String name;
     private Author authorName;
     private int numberOfPages;
