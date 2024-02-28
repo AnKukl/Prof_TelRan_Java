@@ -1,12 +1,12 @@
 package com.proftelran.org.lessontwentyseven.example;
 
-public class ConsoleWriterThread implements Runnable{
+public class ConsoleWriterThread implements Runnable {
     @Override
     public void run() {
-        while (true){
+        while (true) {
             System.out.println("Hello, I am console writer thread " +
                     Thread.currentThread().getName());
-            if (Thread.currentThread().isInterrupted()){
+            if (Thread.currentThread().isInterrupted()) {
 //                System.out.println("State " + Thread.currentThread().getState());
                 System.out.println("Catch from active stage in thread " +
                         Thread.currentThread().getName());

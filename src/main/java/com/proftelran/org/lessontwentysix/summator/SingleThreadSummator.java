@@ -4,7 +4,7 @@ import java.sql.SQLOutput;
 
 public class SingleThreadSummator {
 
-    private int[] array;
+    private final int[] array;
 
     public SingleThreadSummator(int[] array) {
         this.array = array;

@@ -10,7 +10,7 @@ public class TestSelfWork {
         System.out.println("Is 2024 leap year: " + b);
     }
 
-    private static boolean checkYear(int year){
+    private static boolean checkYear(int year) {
         return new GregorianCalendar().isLeapYear(year);
     }
 }

@@ -3,9 +3,9 @@ package com.proftelran.org.lessontwentysix.summator;
 import static com.proftelran.org.lessontwentysix.summator.TestSummarize.multiSum;
 
 public class MultiThreadSummator implements Runnable {
-    private int[] array;
-    private int startIndex;
-    private int endIndex;
+    private final int[] array;
+    private final int startIndex;
+    private final int endIndex;
 
     public MultiThreadSummator(int[] array, int startIndex, int endIndex) {
         this.array = array;
@@ -15,21 +15,22 @@ public class MultiThreadSummator implements Runnable {
 
     @Override
     public void run() {
-    sum();
+        sum();
     }
-        public void sum() {
-            int sum = 0;
-            for (int i = startIndex; i < endIndex; i++) {
-                sum += array[i];
-                try {
-                    Thread.sleep(500);
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
-                }
-            }
-            System.out.println("Sum = " + sum);
-            multiSum += sum; // - incorrect !!!!!!!
 
+    public void sum() {
+        int sum = 0;
+        for (int i = startIndex; i < endIndex; i++) {
+            sum += array[i];
+            try {
+                Thread.sleep(500);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
         }
+        System.out.println("Sum = " + sum);
+        multiSum += sum; // - incorrect !!!!!!!
+
+    }
 
 }

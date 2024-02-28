@@ -17,7 +17,7 @@ public class TestZoneDateTime {
         System.out.println(zonedDateTime);
 
         Set<String> availableZoneIds = ZoneId.getAvailableZoneIds();
-        for (String zone: availableZoneIds){
+        for (String zone : availableZoneIds) {
             System.out.println("Zone -> " + zone);
         }
     }

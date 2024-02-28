@@ -1,6 +1,6 @@
 package com.proftelran.org.lessontwentyeight;
 
-public class CustomThread extends Thread{
+public class CustomThread extends Thread {
     private Object monitor;
 
     public CustomThread(Object monitor) {
@@ -9,7 +9,7 @@ public class CustomThread extends Thread{
 
     @Override
     public void run() {
-        synchronized (monitor){
+        synchronized (monitor) {
             System.out.println("I am " + Thread.currentThread().getName() + " captured monitor ");
             try {
                 Thread.sleep(10000);

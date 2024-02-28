@@ -1,10 +1,10 @@
 package com.proftelran.org.lessontwentysix;
 
-public class OutputThread extends Thread{
+public class OutputThread extends Thread {
     @Override
     public void run() {
         int i = 0;
-        while (i < 10){
+        while (i < 10) {
             try {
                 Thread.sleep(3000);
             } catch (InterruptedException e) {

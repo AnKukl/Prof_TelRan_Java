@@ -15,7 +15,7 @@ public class TestNoSyncTwo {
 
             @Override
             public void run() {
-                for (int i = 0; i < 1000; i++){
+                for (int i = 0; i < 1000; i++) {
                     // 1. - Чтение текущего значения
                     // 2. - увеличение на 1
                     // 3. - присвоение нового значения
@@ -28,7 +28,7 @@ public class TestNoSyncTwo {
 //                        throw new RuntimeException(e);
 //                    }
                     System.out.println(" " + Thread.currentThread().getName() + " : iterator " + i
-                           + " : counter " + counter);
+                            + " : counter " + counter);
                 }
             }
         };

@@ -9,9 +9,9 @@ public class TestNoSync {
             @Override
             public void run() {
                 counter = 0;
-                for (int i = 0; i < 5; i++){
+                for (int i = 0; i < 5; i++) {
                     counter += 1;
-                    System.out.println(Thread.currentThread().getName() + " : "  + counter);
+                    System.out.println(Thread.currentThread().getName() + " : " + counter);
                 }
             }
         };

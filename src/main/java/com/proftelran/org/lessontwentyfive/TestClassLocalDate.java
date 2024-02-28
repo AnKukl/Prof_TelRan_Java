@@ -14,9 +14,9 @@ public class TestClassLocalDate {
         Month month = date.getMonth();
         int dayOfMonth = date.getDayOfMonth();
         DayOfWeek dayOfWeek = date.getDayOfWeek();
-        System.out.println(" " + year + " " + " " +  month + " " + dayOfMonth + " " + dayOfWeek );
+        System.out.println(" " + year + " " + " " + month + " " + dayOfMonth + " " + dayOfWeek);
 
-        LocalDate currentDate = LocalDate.of(2024,2,13);
+        LocalDate currentDate = LocalDate.of(2024, 2, 13);
         System.out.println(currentDate);
         System.out.println(currentDate.getMonth());
 

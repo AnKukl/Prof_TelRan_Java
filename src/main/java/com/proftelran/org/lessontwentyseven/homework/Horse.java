@@ -2,10 +2,10 @@ package com.proftelran.org.lessontwentyseven.homework;
 
 import java.time.LocalTime;
 
-public class Horse implements Runnable{
+public class Horse implements Runnable {
 
-    private String name;
-    private int step;
+    private final String name;
+    private final int step;
 
     private int position;
 
@@ -30,14 +30,14 @@ public class Horse implements Runnable{
     @Override
     public void run() {
         System.out.println("Horse " + name + " starts running " + LocalTime.now());
-        while(true) {
+        while (true) {
             try {
                 Thread.sleep(10);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
             nextStep();
-            if (position > HippodromeApp.LOOP_LENGTH){
+            if (position > HippodromeApp.LOOP_LENGTH) {
                 System.out.println("Horse " + name + " is finished " + LocalTime.now());
                 break;
             }

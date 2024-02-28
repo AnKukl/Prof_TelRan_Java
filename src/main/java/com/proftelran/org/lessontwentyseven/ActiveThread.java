@@ -11,9 +11,9 @@ public class ActiveThread extends Thread {
             System.out.println("Is interrupted = " + interrupted + " " + LocalTime.now());
 
             int sum = 0;
-            for (int i = 0; i < 1000000000l; i++){  //1000000000l
-               sum += i;
-           }
+            for (int i = 0; i < 1000000000L; i++) {  //1000000000l
+                sum += i;
+            }
         }
     }
 }

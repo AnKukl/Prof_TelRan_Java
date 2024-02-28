@@ -5,7 +5,7 @@ public class TestSummarize {
     public static int multiSum = 0;  // incorrect!!!! for mth
 
     public static void main(String[] args) throws InterruptedException {
-        int[] arr = {1,1,1,1,2,2,2,2,3,3,3,3};  // 4, 8, 12 = 24
+        int[] arr = {1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3};  // 4, 8, 12 = 24
 
         SingleThreadSummator singleThread = new SingleThreadSummator(arr);
         singleThread.sum();
