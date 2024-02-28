@@ -13,7 +13,7 @@ public class Hippodrome {
         Random random = new Random();
         List<Horse> horseList = new ArrayList<>();
         for (int i = 0; i < 10; i++) {
-            horseList.add(new Horse("Horse " + i ,random.nextInt(10)));
+            horseList.add(new Horse("Horse " + i, random.nextInt(10)));
         }
 
         horseList.stream()

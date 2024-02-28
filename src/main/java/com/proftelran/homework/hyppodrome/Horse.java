@@ -3,8 +3,8 @@ package com.proftelran.homework.hyppodrome;
 import java.time.LocalTime;
 
 public class Horse implements Runnable {
-    private String name;
-    private int step;
+    final String name;
+    final int step;
     private int position;
 
     public Horse(String name, int step) {
@@ -19,7 +19,7 @@ public class Horse implements Runnable {
 
     @Override
     public void run() {
-        System.out.println("" + name + " starts running " + LocalTime.now());
+        System.out.println(name + " starts running " + LocalTime.now());
 
         while (true) {
             try {
@@ -31,7 +31,7 @@ public class Horse implements Runnable {
             nextStep();
 
             if (position > Hippodrome.LOOP_LENGTH) {
-                System.out.println("" + name + " finished the race " + LocalTime.now());
+                System.out.println(name + " finished the race " + LocalTime.now());
                 break;
             }
         }
